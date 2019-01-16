@@ -13,5 +13,5 @@
 
 | short | long | 설명 | 비고 |
 |:--------|:--------|--------|--------|
-| _D | --dump-header <file> | <file> 에 HTTP header 를 기록한다. |   |
+| _D | ```` --dump-header <file> ````| <file> 에 HTTP header 를 기록한다. |   |
 | 내용 21 | 내용 22 | 내용 23 | 내용 23 |

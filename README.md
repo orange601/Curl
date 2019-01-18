@@ -21,3 +21,4 @@
 | -O | --remote-name | file 저장시 remote 의 file 이름으로 저장한다. -o 옵션보다 편리하다. | |
 | -s | --silent | 정숙 모드. 진행 내역이나 메시지등을 출력하지 않는다. -o 옵션으로 remote data 도 /dev/null 로 보내면 결과물도 출력되지 않는다 | HTTP response code 만 가져오거나 할 경우 유리 |
 | -v | --verbose | 동작하면서 자세한 옵션을 출력한다. | |
+
